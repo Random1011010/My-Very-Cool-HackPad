@@ -29,7 +29,6 @@ On the firmware side, I wrote the QMK code for the matrix, the encoder (volume n
 - 128x32 I2C OLED with an idle-animated Luna sprite
 - QMK firmware, fully open source
 
-<img width="849" height="610" alt="Screenshot 2026-07-14 at 11 34 16 PM" src="https://github.com/user-attachments/assets/cbddc0a4-035f-4f72-b9ea-f4e8117912f8" />
 
 
 ## Bill of Materials (BOM)
