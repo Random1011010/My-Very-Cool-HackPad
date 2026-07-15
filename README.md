@@ -60,6 +60,8 @@ On the firmware side, I wrote the QMK code for the matrix, the encoder (volume n
 
 ## Photos
 
+**Exploded View**
+<img width="373" height="677" alt="Screenshot 2026-07-15 at 12 25 32 AM" src="https://github.com/user-attachments/assets/7a6177b6-1b59-43d4-8abd-2e0198ff7755" />
 
 **Schematic:**
 
